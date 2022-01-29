@@ -3,33 +3,9 @@ import React from "react";
 
 
 
-const Home = () => {
+const footer = () => {
   return (
-    <!-- End of Portfolio Section -->	<!-- Client Section -->
-    <section id="client" class="overlay bg-fixed" style="background-image: url(img/bg.jpg);">
-        <div class="container">
-            <div class="section-content" data-aos="fade-up">
-                <div class="row ">
-                    <div class="col-md-12">
-                        <!-- Section Title -->
-                        <div class="title-wrap mb-5"><h2>My background</h2>
-                            <h5>My background is in horticulture, I spent the last 10 years managing at Sloat Garden Center. Plants
-                                have been a hobby of mine for a long time
-                                but I needed a new challenge and I would like to turn gardening back into a hobby and pursue a different
-                                line of work. I
-                                figured that if I could learn the latin names for most species of
-                                plants in California, I can learn how to code. This class is definitely a challenge for me, I'm going to be
-                                honest and say I'm struggling through this month. I've
-                                never even looked at code before the pre-work but I know with time and repetition I will get this.
-                                My first vegetable garden was the same way, I didn't give up and now I'm a great gardener, I hope to apply
-                                that mentality to this endeavor.</h5>
-                        </div>
-    
-                    </div>
-                </div>
-            </div>
-    </section>
-    <!-- End of Client Section -->	<!-- Reservation Section -->
+	<!-- Reservation Section -->
     <section id="reservation" class="bg-white section-content">
         <div class="container">
             <div class="row align-items-center">
